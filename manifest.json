@@ -1,11 +1,11 @@
-
 {
   "name": "CANAL+ Terrain",
   "short_name": "C+Terrain",
-  "description": "Prototype terrain-test Android – Login TECH001",
+  "description": "Prototype terrain Canal+ pour Android – TECH001",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000"
 }
+``
